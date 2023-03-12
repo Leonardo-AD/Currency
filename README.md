@@ -1,6 +1,6 @@
 <h1 align='center'>Currency</h1>
 
-<p>A Currency converter challenge of Rocketseat. In this app I am using HTML, CSS, JavaScript, Apex Charts and Flag Icons.</p>
+<p>A Currency converter challenge of Rocketseat. In this app I am using HTML, CSS, JavaScript, Apex Charts and Flag Icons. Only the graph is functional.</p>
 
 ## Features Developed
 
