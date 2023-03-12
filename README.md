@@ -11,7 +11,11 @@
 
 <p>The interface</p>
 
-<img src="./images/interface.png" width="500"/> 
+<img src="./assets/interface.png" width="700"/>
+
+<p>Mobile version</p>
+
+<img src="./assets/mobile.png"/>
 
 ## Prototype
 
