@@ -1,6 +1,3 @@
-// https://www.figma.com/community/file/1212757179376046656
-// https://apexcharts.com/javascript-chart-demos/area-charts/datetime-x-axis/ --- test
-
 const options = {
     series: [
       {
